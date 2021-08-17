@@ -152,6 +152,7 @@ function onDocumentMouseMove(event) {
     mouseY = (event.clientY - windowHalfY);
 }
 
+
 const clock = new THREE.Clock()
 
 const tick = () => {
